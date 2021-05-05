@@ -1,5 +1,5 @@
 os: linux
-dist: boinic
+dist: bionic
 language: generic
 sudo: required
 services:
